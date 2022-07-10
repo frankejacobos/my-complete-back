@@ -1,0 +1,5 @@
+{
+  "jwtPrivateKey": "miclave",
+  "db": "mongodb+srv://root:root@cluster0.agkgn.mongodb.net/database-proyecto?retryWrites=true&w=majority"
+  
+}
